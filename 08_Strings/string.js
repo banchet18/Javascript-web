@@ -14,6 +14,7 @@ console.log(gameName[0]);
 console.log(gameName.toUpperCase());
 console.log(gameName.charAt(5));
 console.log(gameName.indexOf("t"));
+console.log(gameName.startsWith('che'))
 
 const newString = gameName.substring(0,4)
 console.log(newString);
